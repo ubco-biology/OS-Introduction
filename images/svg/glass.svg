@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="glass.svg"
+   inkscape:export-filename="C:\Users\vdunbar\Google Drive\Work\Fostering Open Science\Undergraduate Instruction\Bookdown Files\OS 101 &amp; 102\images\png\glass.png"
+   inkscape:export-xdpi="277.96805"
+   inkscape:export-ydpi="277.96805">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="271.59446"
+     inkscape:cy="423.44042"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g899"
+       transform="rotate(16.199559,84.97403,109.46452)"
+       inkscape:export-filename="C:\Users\vdunbar\Google Drive\Work\Fostering Open Science\Undergraduate Instruction\Bookdown Files\OS 101 &amp; 102\images\png\glass.png"
+       inkscape:export-xdpi="277.96805"
+       inkscape:export-ydpi="277.96805">
+      <circle
+         style="fill:#333333;stroke-width:0.325001;stroke-linejoin:round;stroke-miterlimit:2.2;paint-order:stroke fill markers"
+         id="path835"
+         cx="130.63339"
+         cy="13.51328"
+         r="24.946428"
+         transform="rotate(34.465022)" />
+      <path
+         id="rect837"
+         style="fill:#333333;stroke-width:0.325001;stroke-linejoin:round;stroke-miterlimit:2.2;paint-order:stroke fill markers"
+         d="M 83.126055,92.701246 98.39596,103.18224 C 81.306205,118.7297 69.437664,139.69468 60.215193,158.80832 L 44.945287,148.32733 C 60.088742,133.27775 73.671252,113.4892 83.126055,92.701246 Z"
+         sodipodi:nodetypes="ccccc" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:0.303442;stroke-linejoin:round;stroke-miterlimit:2.2;paint-order:stroke fill markers"
+         id="path835-1"
+         cx="131.57834"
+         cy="13.229795"
+         rx="23.056547"
+         ry="23.529016"
+         transform="rotate(34.465022)" />
+      <path
+         id="rect837-0"
+         style="fill:#ffffff;stroke-width:0.286478;stroke-linejoin:round;stroke-miterlimit:2.2;paint-order:stroke fill markers"
+         d="m 84.671922,95.541962 12.803761,8.132048 c -16.403124,14.8583 -28.567663,34.10788 -38.234709,51.54521 l -12.803761,-8.13206 c 14.63177,-14.28408 28.233465,-32.62087 38.234709,-51.545198 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 103.75447,64.066965 2.26785,-2e-6 c 16.75695,7.181548 16.50498,20.599703 13.60716,31.372025 l -3.21281,3.212792 c 7.18155,-16.252972 6.42559,-24.757435 -12.6622,-34.584815 z"
+         id="path888"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>
