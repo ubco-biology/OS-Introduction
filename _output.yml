@@ -3,6 +3,8 @@ bookdown::gitbook:
   css: style.css
   config:
     toc:
+      collapse: section
+      scroll_highight: yes
       before: |
         <li><a href="./">Open Science: An Introduction</a></li>
       after: |
