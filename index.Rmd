@@ -19,23 +19,19 @@ This text was built to accompany the first year of the Biology undergraduate deg
 
 Part 1, *Principles of Open Science* will be covered in BIOL 116. Parts 2 and 3, *Open Science in Action: Benefits* and *Open Science in Action: Challenges*, will be covered in BIOL 125.
 
+Parts 2 and 3 are pending release.
+
 ## Copyright {-}
 
 This work is licenced under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Please use the following for citing this document
+Please use the following for citing this document:
 
-Hanna, S., Pither, J., Vis-Dunbar, M. (2021). *Open Science. An introduction for Biology*. [https://SOMETHING HERE]()
+Hanna, S., Pither, J., Vis-Dunbar, M. (2021). *Open Science. An introduction for Biology*. [https://ubco-biology.github.io/OS-Introduction/](https://ubco-biology.github.io/OS-Introduction/)
 
-All source files are available [here]().
+All source files are available [https://github.com/ubco-biology/OS-Introduction]().
 
 ## Conventions {-}
-
-In text:
-
-* [hyperlinked terms]() take the user to a glossary in the UBCO Biology Department's [Procedures & Guidelines]() ebook.
-
-<br />
 
 Glyhps:
 
