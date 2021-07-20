@@ -8,4 +8,4 @@ Please use the following for citing this document:
 
 Hanna, S., Pither, J., Vis-Dunbar, M. (2021). *Open Science. An introduction for Biology*. [https://ubco-biology.github.io/OS-Introduction/](https://ubco-biology.github.io/OS-Introduction/)
 
-All source files are available [https://github.com/ubco-biology/OS-Introduction]().
+All source files are available [https://github.com/ubco-biology/OS-Introduction](https://github.com/ubco-biology/OS-Introduction).
