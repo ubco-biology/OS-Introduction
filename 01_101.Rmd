@@ -1,5 +1,7 @@
 # Principles of Open Science
 
+*Last updated `r Sys.Date()`*
+
 ## The Burden of Proof
 
 Science is a beautiful thing. It is a landscape of exploration and one that at its root is tasked with finding evidence, and establishing cause and effect. At a fundamental level, this implies that science should be able to answer questions like these.
