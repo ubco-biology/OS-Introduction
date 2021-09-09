@@ -21,6 +21,16 @@ Part 1, *Principles of Open Science* will be covered in BIOL 116. Parts 2 and 3,
 
 Parts 2 and 3 are pending release.
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-58XWM2HVVX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-58XWM2HVVX');
+</script>
+
 ## Copyright {-}
 
 This work is licenced under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -40,3 +50,4 @@ Glyhps:
 | <img src = "images/png/beaker.png" width = 40px> | Lab exercises for discussion |
 | <img src = "images/png/check.png" width = 40px> | Examples of principles in practice |
 | <img src = "images/png/glass.png" width = 40px> | Highlight of UBC researcher engaged or participating in Open Science |
+
