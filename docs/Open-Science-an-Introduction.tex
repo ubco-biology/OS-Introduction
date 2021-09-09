@@ -4,14 +4,10 @@
 %
 \documentclass[
 ]{book}
-\title{Open Science: An Introduction for Biology}
-\author{}
-\date{\vspace{-2.5em}2021-07-20}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -71,11 +67,15 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+
+\title{Open Science: An Introduction for Biology}
+\author{}
+\date{\vspace{-2.5em}2021-08-10}
 
 \begin{document}
 \maketitle
@@ -118,6 +118,8 @@ Glyhps:
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+& \\
+\midrule
 \endhead
 & Lab exercises for discussion \\
 & Examples of principles in practice \\
@@ -127,6 +129,8 @@ Glyhps:
 
 \hypertarget{principles-of-open-science}{%
 \chapter{Principles of Open Science}\label{principles-of-open-science}}
+
+\emph{Last updated 2021-08-10}
 
 \hypertarget{the-burden-of-proof}{%
 \section{The Burden of Proof}\label{the-burden-of-proof}}
@@ -597,6 +601,8 @@ In subsequent chapters and terms, we'll explore some of the challenges researche
 
 \hypertarget{references}{%
 \chapter{References}\label{references}}
+
+\emph{Last updated 2021-08-10}
 
   \bibliography{OS-Basics.bib}
 
