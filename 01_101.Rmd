@@ -1,24 +1,29 @@
+# (PART\*) OS 101 {-}
+
 # Principles of Open Science
 
 *Last updated `r Sys.Date()`*
 
 ## The Burden of Proof
 
-Science is a beautiful thing. It is a landscape of exploration and one that at its root is tasked with finding evidence, and establishing cause and effect. At a fundamental level, this implies that science should be able to answer questions like these.
+Science is a beautiful thing. It is a landscape of exploration and one that at its root is tasked with finding evidence, and establishing cause and effect. At a fundamental level, this implies that science should be able to answer questions like these
 
-> If I exercise daily, how is this likely to affect my cardiovascular (heart) health?
+> If I exercise daily, how is this likely to affect my cardiovascular health?
 >
 > If we build a road here, how will the local population of bighorn sheep be affected?
 
-As you'll discover throughout your degree, scientists tackle such questions through a combination of exploratory research and confirmatory research. At the exploratory stage, ideas are generated and associations are discovered. Exploratory research gives rise to hypotheses that can then be tested through confirmatory research, which requires well-designed experiments. For instance, based on observation, we have long hypothesized that there are positive associations between exercise and physical health. But establishing that daily exercise causes healthy outcomes is a different challenge.
+As you\'ll discover throughout your degree, scientists tackle such questions through a combination of exploratory research and confirmatory research. At the exploratory stage, ideas are generated and associations are discovered. Exploratory research gives rise to hypotheses that can then be tested through confirmatory research, which requires well-designed experiments. For instance, based on observation, we have long hypothesized that there are positive associations between exercise and physical health. But establishing that daily exercise causes healthy outcomes is a different challenge.
 
-Many research teams have designed studies to address various aspects of these observed benefits of physical activity. One such team, an interdisciplinary research team at UBC, tackled this question in relation to falls in an aging population [@liu-ambrose_effect_2019]. The researchers designed an experiment to to test whether strength training after experiencing a fall in an aging population would reduce injuries from a subsequent fall.
+<div class = "takeAway">
+Exploratory research gives rise to hypotheses that can then be tested through confirmatory research, which requires well-designed experiments.
+</div>
 
-<div class = "lab">
+Many research teams have designed studies to address various aspects of these observed benefits of physical activity. One such team, an interdisciplinary research team at UBC, tackled this question in relation to falls in an aging population. The researchers designed an experiment to to test whether strength training after experiencing a fall in an aging population would reduce injuries from a subsequent fall.
 
+<div class = "osexercise">
 ##### Exercise and Positive Health Outcomes {-}
 
-After reading the following abstract from Liu-Ambrose et al\'s paper *Effect of a Home-Based Exercise Program on Subsequent Falls Among Community-Dwelling High-Risk Older Adults After a Fall* [@liu-ambrose_effect_2019], try and answer the following questions.
+After reading the following abstract from Liu-Ambrose et al\'s paper [Effect of a Home-Based Exercise Program on Subsequent Falls Among Community-Dwelling High-Risk Older Adults After a Fall](https://doi.org/10.1001/jama.2019.5795), try and answer the following questions.
 
 * Was this study confirmatory or exploratory? How do we know this?
 * Who participated in the study?
@@ -49,11 +54,11 @@ After reading the following abstract from Liu-Ambrose et al\'s paper *Effect of 
 
 Suggesting a causal link brings with it the need to show your proof. This burden of scientific proof requires both creativity and rigour; studies must be well designed and well executed. It also requires that studies be independently replicated to show that, if repeated, they will result in the same conclusions, reinforcing the validity of the original findings. On the other hand, a replication study may come to a different conclusion, potentially invalidating the conclusions of the original study.
 
-Say, for example, that you\'re provided with the choice between two medications to treat a medical condition you'd prefer wasn\'t mentioned in a publicly available education resource. Neither has a record of adverse side effects, but one drug, we\'ll be creative and call it \"drug A\" has findings obtained from only a single research lab, while \"drug B\" underwent five independently replicated studies in five different labs with five independent researchers. Which medication might you choose?
+Say, for example, that you\'re provided with the choice between two medications to treat a medical condition - we\'ll leave the details of this medical condition up to your imagination. Neither has a record of adverse side effects, but one drug, we\'ll be creative and call it \"drug A\" has findings obtained from only a single research lab, while \"drug B\" underwent five independently replicated studies in five different labs with five independent researchers. Which medication might you choose?
 
 ### Science & Social Trust {-}
 
-Science does not exist independent of the rest of society. The outputs of science — the discoveries made through research — answer questions we have in all facets of life.
+Science does not exist independent of the rest of society. The outputs of science - the discoveries made through research - answer questions we have in all facets of life
 
 > What is a healthy lunch option?
 >
@@ -63,7 +68,9 @@ Science does not exist independent of the rest of society. The outputs of scienc
 >
 > What should government policy be on climate change?
 
+<div class = "takeAway">
 If science is going to be used by the public, other scientists, and policy makers to address these questions, they need to be able both to gain access to and to trust these findings.
+</div>
 
 #### Trust & Access {-}
 
@@ -82,17 +89,20 @@ Who exactly is a stakeholder? Anyone who can influence or be affected by a matte
 
 ## A Crisis
 
-Much of the scientific community was shocked in 2005 when researcher, John Ioannidis [@ioannidis_why_2005], wrote a paper claiming that most published research findings are false.
+Much of the scientific community was shocked in 2005 when researcher, John Ioannidis, wrote a paper claiming that most published research findings are false.
 
 Ioannidis was criticizing the rigour of the scientific process used by researchers in medicine. His statement sparked a movement that started questioning whether or not published studies could be replicated: that is, could they withstand a test of their burden of proof?
 
-Since Ioannidis published his paper, this movement has grown into a crusade seeking to transform the culture and practices of scientific research. As a society and as a species we face many challenges that require us to work together across geographical, social, political, and disciplinary boundaries. Solid science and public confidence in that science figure prominently in efforts to address such issues as health and wellness, climate change, and the need to make resource use sustainable. What’s needed is a change in culture and practices to improve knowledge sharing, quality, accessibility, and trust in science.
+Since Ioannidis published his paper, this movement has grown, seeking to transform the culture and practices of scientific research. As a society and as a species we face many challenges that require us to work together across geographical, social, political, and disciplinary boundaries. Solid science and public confidence in that science figure prominently in efforts to address such issues as health and wellness, climate change, and the need to make resource use sustainable.
 
-<div class = "lab">
+<div class = "takeAway">
+A change in culture and practices to improve knowledge sharing, quality, accessibility, and trust in science is needed.
+</div>
 
+<div class = "osexercise">
 ##### Why Most Published Research Findings are False {-}
 
-After reading the following abstract from John Ioannidis’s article [@ioannidis_why_2005], reflect on the following questions.
+After reading the following abstract from John Ioannidis’s article, [Why most published research findings are false](https://doi.org/10.1371/journal.pmed.0020124), reflect on the following questions.
 
 * What factors did Ioannidis identify for the lack of reliability in research studies?
 * How might these problems be addressed?
@@ -102,7 +112,6 @@ After reading the following abstract from John Ioannidis’s article [@ioannidis
 There is increasing concern that most current published research findings are false. The probability that a research claim is true may depend on study power and bias, the number of other studies on the same question, and, importantly, the ratio of true to no relationships among the relationships probed in each scientific field.
 
 In this framework, a research finding is less likely to be true when the studies conducted in a field are smaller; when effect sizes are smaller; when there is a greater number and lesser preselection of tested relationships; where there is greater flexibility in designs, definitions, outcomes, and analytical modes; when there is greater financial and other interest and prejudice; and when more teams are involved in a scientific field in chase of statistical significance. Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true. Moreover, for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias. In this essay, I discuss the implications of these problems for the conduct and interpretation of research.
-
 </div>
 
 ## What Exactly is Open Science?
@@ -113,14 +122,15 @@ This next section will explore a related issue: the ability to build up evidence
 
 ### A Replication Crisis {-}
 
-Open Science proposes many solutions to problems with how research is done. It aims to ensure that research can be confirmed through replication, and that both new discoveries and replications of previous research are respected and rewarded.
+Open Science proposes many solutions to problems with how research is done.
 
-#### Replication {-}
+<div class = "takeAway">
+Open Science aims to ensure that research can be confirmed through replication, and that both new discoveries and replications of previous research are respected and rewarded.
+</div>
 
 Although scientific progress rests on the repetition and reproduction of results, efforts at this are hindered by two main factors.
 
-* First, there is a desire for the new and shiny: novel studies are more interesting.
-* Secondly, many studies cannot be competently analyzed or replicated. This is because critical information about them — design, data, methods, lab notes, analyses and code — may not be made available, or may be poorly communicated.
+First, there is a desire for the new and shiny: novel studies are more interesting. Second, many studies cannot be competently analyzed or replicated. This is because critical information about them — design, data, methods, lab notes, analyses and code — may not be made available, or may be poorly communicated.
 
 ### Flashy Science or Good Science {-}
 
@@ -130,22 +140,17 @@ The result? Novel research gets funded and published. Sometimes, it appears, the
 
 ### Incentives {-}
 
-Replication studies are hard to fund, and many journals are not interested in publishing them. And universities and scientific institutes offer career rewards to those who publish novel findings in prestigious journals.
+Replication studies have traditionally been hard to fund, and many journals are not interested in publishing them. And universities and scientific institutes offer career rewards to those who publish novel findings in prestigious journals.
 
 Academia and industry alike reward the publication of positive and so-called \"significant\" results. Scientists may unwittingly \"bend the rules\" of science trying to get results worthy of publication. \"Bending the rules\" in this context is also known as engaging in Questionable Research Practices (QRPs).
 
-#### Questionable Research Practices {-}
-
-It\'s important to note that QRPs don’t normally result from deliberate efforts on the part of researchers to do bad science. QRPs arise from a complex system of interactions within and around the research process and from the need for researchers to get published. After all, publications are the bread and butter of a researcher. And unfortunately, this can mean that sometimes style trumps substance, as Daniel Engber notes in his *Slate* article \"Cancer Research Is Broken\" [@engber_cancer_2016].
+<div class = "note">
+It\'s important to note that QRPs don’t normally result from deliberate efforts on the part of researchers to do bad science. QRPs arise from a complex system of interactions within and around the research process and from the need for researchers to get published. After all, publications are the bread and butter of a researcher. And unfortunately, this can mean that sometimes style trumps substance, as Daniel Engber notes in his *Slate* article [Cancer Research Is Broken](https://slate.com/technology/2016/04/biomedicine-facing-a-worse-replication-crisis-than-the-one-plaguing-psychology.html).
+</div>
 
 ### Enter Open Science {-}
 
-Open Science is a movement that tries to combat the replication crisis, QRPs, and style trumping substance in two ways:
-
-* by providing different incentives and rewards for research. That is, changing what we measure as a success in research, shifting from a culture that emphasizes novel findings to one that also rewards the many other aspects of practicing good science;
-* by making all parts of the scientific research process transparent and accessible, allowing for a critical review of how a study was conducted, and ultimately enabling that study to be independently replicated.
-
-#### Open Science Ideals {-}
+Open Science is a movement that tries to combat the replication crisis, QRPs, and style trumping substance in two ways. First, by providing different incentives and rewards for research. That is, changing what we measure as a success in research, shifting from a culture that emphasizes novel findings to one that also rewards the many other aspects of practicing good science. Second, by making all parts of the scientific research process transparent and accessible, allowing for a critical review of how a study was conducted, and ultimately enabling that study to be independently replicated.
 
 What sort of changes, then, would we expect Open Science to bring? Imagine a world where
 
@@ -162,14 +167,17 @@ In the previous section we talked about the relationship between science and soc
 
 The fundamental values we\'ll look at include
 
-* scientific quality and integrity;
-* equity;
-* communication; and
-* diversity and inclusion.
+**scientific quality and integrity**
+
+**Equity**
+
+**Communication**
+
+**Diversity and inclusion**
 
 ## Core Values: Scientific Integrity
 
-Though we haven’t mentioned the phrase \"scientific integrity\", we have looked at the critical role it plays in replicability and Open Science. Integrity involves sticking to best practices for research that promote reproducibility through transparency and open access. At its root, this principle springs from a sense of responsibility for public welfare and from the honest pursuit of scientific truth.
+Though we haven\'t mentioned the phrase \"scientific integrity\", we have looked at the critical role it plays in replicability and Open Science. Integrity involves sticking to best practices for research that promote reproducibility through transparency and open access. At its root, this principle springs from a sense of responsibility for public welfare and from the honest pursuit of scientific truth.
 
 In a literal sense, transparency is the property of an object that makes it so clear that you can see through it. But what about when we talk about transparency in government policy, or scientific research? In this context, transparency implies a high degree of disclosure — revealing clearly the exact reasoning and process used in coming to a decision or taking an action. As well, transparency means taking care to disclose important information in a respectful and responsible fashion.
 
@@ -187,14 +195,10 @@ Scientific integrity implies several practices:
 
 As we saw in the last section, these form key elements of our ideal research ecosystem, where the public trusts science and studies can be tested and repeated.
 
-<div class = "customExample">
-
-##### Transparency & Grading {-}
-
+<div class = "note">
 One case where students want and need transparency is in grading. Most of you probably appreciate knowing how marks were given to questions on a midterm exam and what criteria the marker used to score each question. This provides you with both a *reason* for the assigned grade and a means of *comparing* your grade with those of your classmates.
 
 Ultimately, this specific information can help you to address gaps in your knowledge and perform better on future assessments (such as the final exam). In the same way, transparency in research allows scientists to improve future studies and add to accumulated knowledge.
-
 </div>
 
 ## Core Values: Equity & Communication
@@ -203,7 +207,7 @@ What is equity? Does equity equal equality?
 
 Equity and equality are similar, but there is a key distinction: under equality everyone is treated in an identical manner, whereas under equity everyone is treated fairly according to their abilities and needs.
 
-The following image nicely illustrates the concept of equity:
+The following image nicely illustrates the concept of equity
 
 ![](images/equity_cropped.jpg)
 
@@ -215,7 +219,11 @@ We do research to learn; we share our findings to build a culture of learning an
 
 But because there can be a range of stakeholders with different needs, values, and backgrounds, it is important to communicate science in ways that consider these specific attributes. Processes and findings need to be *contextualized* (put into a context meaningful to the particular stakeholder) and *made accessible*, both in message (the content of the communication) and medium (the way the message is conveyed). The more avenues we use to share and engage and the fewer barriers to access we put up, the more equitably our discoveries can be shared.
 
-Equity in science communication can be explored in many ways; none addresses all issues of equitable access, but each helps to enhance scientific literacies in our society.
+<div class = "takeAway">
+Because there can be a range of stakeholders with different needs, values, and backgrounds, it is important to communicate science in ways that consider these specific attributes.
+</div>
+
+Equity in science communication can be explored in many ways; none addresses all issues of equitable access, but each helps to enhance scientific literacies in our society. For example,
 
 * Open access publications help to make research available to those who cannot afford costly journal subscriptions.
 * Citizen science engages members of the public in the research process, contributing their voices to projects.
@@ -230,31 +238,34 @@ The language and techniques your Biology professor uses to communicate scientifi
 * working on research with a departmental colleague; or
 * advising a government employee involved in writing policy.
 
-In each case, she adjusts her communication to match her audience\'s needs, educational background, and experience. Her message isn\\'t fundamentally changed or simplified, but it does need to be delivered in a way that is understanding and respectful of her audience.
+In each case, she adjusts her communication to match her audience\'s needs, educational background, and experience. Her message isn\'t fundamentally changed or simplified, but it does need to be delivered in a way that is understanding and respectful of her audience.
 
-<div class = "customExample">
-
-##### Effects of DDT on Birds: Three Approaches {-}
-
+<div class = "note">
 Consider each of the following three explanations of how DDT affects birds in terms of its intended audience.
 
 **Aimed at Researchers in the Discipline**
 
-Dichlorodiphenyltrichloroethane (DDT) is a persistent organochlorine compound found worldwide that causes significant anatomical, physiological and behavioural abnormalities in humans and wildlife [@iwaniuk_effects_2006].
+Dichlorodiphenyltrichloroethane (DDT) is a persistent organochlorine compound found worldwide that causes significant anatomical, physiological and behavioural abnormalities in humans and wildlife.
+
+-- [The Effects of Environmental Exposure to DDT on the Brain of a Songbird: Changes in Structures Associated with Mating and Song](https://doi.org/10.1016/j.bbr.2006.05.026).
 
 **Aimed at Post-Secondary Science Students**
 
-DDT and its metabolites cause eggs to have thin shells and reduce levels of a hormone necessary for female birds to lay eggs. Population declines and local disappearance of peregrine falcons, bald and golden eagles, ospreys, kestrels, and other predatory birds were recorded [@cox_pesticides_1991].
+DDT and its metabolites cause eggs to have thin shells and reduce levels of a hormone necessary for female birds to lay eggs. Population declines and local disappearance of peregrine falcons, bald and golden eagles, ospreys, kestrels, and other predatory birds were recorded.
+
+--- [Pesticides and Birds: From DDT to Today\'s Poisons](https://eap.mcgill.ca/MagRack/JPR/JPR_14.htm).
 
 **Aimed at the General Public**
 
-High concentrations of DDT in birds cause weakness in the shells of their eggs, which leads to a reduction in their population. DDT is now banned because of this [@bbc_bitesize_food_nodate].
+High concentrations of DDT in birds cause weakness in the shells of their eggs, which leads to a reduction in their population. DDT is now banned because of this.
+
+--- [Food Chains and Food Webs](https://www.bbc.co.uk/bitesize/guides/zq4wjxs/revision/5).
 
 </div>
 
 ## Core Values: Diversity & Inclusion
 
-You’ve almost certainly heard these terms, but may wonder if there’s a difference between them.
+You\'ve almost certainly heard these terms, but may wonder if there\'s a difference between them.
 
 In the context of Open Science diversity is the practice or quality of engaging in research with individuals who vary in terms of social class, ethnic background, sexual orientation, gender, ability, etc.
 
@@ -262,20 +273,22 @@ Inclusion takes this diverse engagement further: it looks at the individual in r
 
 Looking back at our discussion in the previous section, diversity and inclusion seem to be natural partners of equity.
 
-### Diversity in Research Culture {-}
-
+<div class = "takeAway">
 Diverse criticism of scientific ideas makes research more robust, and challenges biases and assumptions that might otherwise pass unchecked.
+</div>
+
+### Diversity in Research Culture {-}
 
 Divergent perspectives, skill sets, and ideas introduce the \"outside-of-the-box\" thinking that drives research forward. Involving a diversity of views and people enriches research.
 
-Diversity and inclusion show up in many types of research activities that involve participation and collaboration. Participation and collaboration can take many forms.
+Diversity and inclusion show up in many types of research activities that involve participation and collaboration. Participation and collaboration can take many forms. For example,
 
 * Citizen science engages the public in data collection and processing.
 * Partnership research turns the relationship between researcher and subject into a partnership, where both contribute to the research question, methods, and outcomes.
 * International collaborations increase cultural diversity and can address problems that cross borders, like disease epidemics or pollution.
 * Interdisciplinary research, such as collaborations between medical researchers on the one hand and veterinarians and animal specialists on the other, can help investigate complex questions like how the COVID-19 coronavirus evolves in intermediate hosts before being transferred to humans.
 
-<div class = "feature">
+<div class = "osexample">
 
 ##### Partnership Research: Integrated Knowledge Translation (IKT) {-}
 
@@ -283,7 +296,7 @@ Historically, there has been an imbalanced power relationship between people wit
 
 In recent years, however, patient rights movements have focused on returning power to people undergoing medical care. And researchers and practitioners are adapting their practices, recognizing that people living with a medical condition hold unique knowledge about how it affects them, and this lived experience can be used to improve both research and outcomes.
 
-An interdisciplinary panel of researchers from both UBC campuses, led by Dr. Kathleen Martin-Ginis, has engaged with people living with spinal cord injury (SCI) to set up guidelines for collaboration that give those with SCI a voice in the research process, from the choice of avenues to investigate to decisions on the implementation of research results. This model of collaborative research, which is known as Integrated Knowledge Translation, has been shown to [@gainforth_integrated_2021]:
+An interdisciplinary panel of researchers from both UBC campuses, led by Dr. Kathleen Martin-Ginis, has engaged with people living with spinal cord injury (SCI) to set up guidelines for collaboration that give those with SCI a voice in the research process, from the choice of avenues to investigate to decisions on the implementation of research results. This model of collaborative research, which is known as Integrated Knowledge Translation, has been shown to:
 
 * improve the quality of science;
 * increase the probability that findings will be used in real life in policy or practice;
@@ -292,6 +305,7 @@ An interdisciplinary panel of researchers from both UBC campuses, led by Dr. Kat
 
 You can check out one output from this research, the [Integrated Knowledge Translation (IKT) Guiding Principles for Conducting Spinal Cord Injury (SCI) Research in Partnership.](http://ok-ikt-2019.sites.olt.ubc.ca/files/2021/02/IKT_Guiding_Principles_Feb_2021_1.pdf)
 
+--- [Integrated Knowledge Translation Guiding Principles for Conducting and Disseminating Spinal Cord Injury Research in Partnership](https://doi.org/10.1016/j.apmr.2020.09.393)
 </div>
 
 ## An Equitable and Inclusive Open Science
@@ -300,44 +314,39 @@ In the past few years, the core values of equity, diversity, and inclusion have 
 
 Sometimes, solutions involve using multiple ways of knowing to make and carry out science policy.
 
-<div class = "feature">
-
-
-##### Government Policy: Diverse Teams Informing Species Risk Assessment {-}
+<div class = "osexample">
+##### Government Policy: Diverse Teams Informing Species Risk Assessment {-}
 
 Dr. Jeannette Armstrong was born and raised in the South Okanagan, on the Penticton Indian reserve. Dr. Armstrong is well known as an author, poet, educator, and Indigenous rights activist.
 
-At UBC Okanagan, she holds a Canada Research Chair in Okanagan Indigenous Knowledge and Philosophy. She is also one of several people on a subcommittee of The Committee on the Status of Endangered Wildlife in Canada (COSEWIC), which advises the Minister of Environment and Climate Change Canada on designation of species at risk [@li_jeannettes_nodate] [@committee_on_the_status_of_endangered_wildlife_in_canada_atk_nodate].
+At UBC Okanagan, she holds a Canada Research Chair in Okanagan Indigenous Knowledge and Philosophy. She is also one of several people on a subcommittee of [The Committee on the Status of Endangered Wildlife in Canada (COSEWIC)](https://cosewic.ca/index.php/en-ca/about-us/cosewic-subcommittees/atk-subcommittee-members), which advises the Minister of Environment and Climate Change Canada on designation of species at risk.
 
 The [COSEWIC website](https://cosewic.ca/index.php/en-ca/about-us/cosewic-subcommittees) states:
 
 > Incorporating Aboriginal Traditional Knowledge into COSEWIC\'s assessment of species at risk improves the process, and therefore the quality of designations made by COSEWIC, by bringing information and perspectives on wildlife species that are not available in published scientific literature.
-
 </div>
 
 ### Countering Systemic Bias {-}
 
-However, more work is needed to really shift the systemic imbalance that has resulted from the legacies of our society holding the white, heterosexual, male, middle-class or higher, able-bodied adult up as the \"norm\" — the norm around which our society constructs its practices and institutions, including its universities, employment law, and research design, to name a few. When this favouritism is enshrined in legislation, administrative processes, career advancements, our education systems, etc., we call it systemic bias.
+However, more work is needed to really shift the systemic imbalance that has resulted from the legacies of our society holding the white, heterosexual, male, middle-class or higher, able-bodied adult up as the \"norm\" - the norm around which our society constructs its practices and institutions, including its universities, employment law, and research design, to name a few.
 
-If we differ in terms of any of the characteristics listed above — whether in our ethnicity, gender, sexual orientation, social class, or ability — we lack that the level of privilege their possession confers. Equitable practices try to shift this imbalance.
+<div class = "takeAway">
+When this favouritism is enshrined in legislation, administrative processes, career advancements, our education systems, etc., we call it systemic bias.
+</div>
 
-Systemic bias, and the norms these biases engender, infiltrate many aspects of how research is undertaken. Sometimes this manifests in the conduct of science itself, where as recently as the end of the Second World War, some scientists helped to promote \"scientific racism\", encoding these norms through taxonomies and classification systems that grouped humankind into different races. Another discipline that we would now call \"pseudoscience\", phrenology, attempted to correlate intelligence and personality to observable features of the human skull.
+If we differ in terms of any of the characteristics listed above - whether in our ethnicity, gender, sexual orientation, social class, or ability - we lack that the level of privilege their possession confers. Equitable practices try to shift this imbalance.
+
+Systemic bias, and the norms these biases engender, infiltrate many aspects of how research is undertaken. Sometimes this manifests in the conduct of science itself, where as recently as the end of the Second World War, some scientists helped to promote \"scientific racism\", encoding these norms through taxonomies and classification systems that grouped humankind into different races. Another discipline that we would now call \"pseudoscience\" - phrenology - attempted to correlate intelligence and personality to observable features of the human skull.
 
 This discriminatory system, as we've discussed, can even prevent people from engaging in the practice of scientific research from the outset.
 
-<div class = "lab">
-
-##### Indigenous Representation in Science {-}
-
-[In 2016, 6% of Kelowna’s population identified as Aboriginal](https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?LANG=Eng&GK=CMA&GC=915&TOPIC=9) (a term including a number of more specific Indigenous identities, such as Metis, Inuk, and First Nations). If there were no bias in the school and post-secondary educational systems, and assuming that Indigenous people are just as capable as non-Indigenous people at doing science, we would expect to see a comparable percentage of Indigenous people studying and teaching science in colleges and universities. But we don’t.
-
-##### Discussion Question {-}
+<div class = "note">
+[In 2016, 6% of Kelowna’s population identified as Aboriginal](https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?LANG=Eng&GK=CMA&GC=915&TOPIC=9) (a term including a number of more specific Indigenous identities, such as Metis, Inuk, and First Nations). If there were no bias in the school and post-secondary educational systems, and assuming that Indigenous people are just as capable as non-Indigenous people at doing science, we would expect to see a comparable percentage of Indigenous people studying and teaching science in colleges and universities. But we don\'t.
 
 Consider the following questions.
 
 * What implications might this have for how research is conducted at UBC?
 * How can we change this?
-
 </div>
 
 

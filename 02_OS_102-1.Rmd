@@ -1,0 +1,219 @@
+# (PART\*) OS 102 {-}
+
+# Open Science in Action: Benefits
+
+*Last updated `r Sys.Date()`*
+
+## Introduction
+
+In the previous chapter we talked a lot about what Open Science is, and about some of the core values that underlie it. In this chapter we\'ll survey, through tangible examples, some of the many benefits OS can bring when these core values are put into practice, including:
+
+**Accelerated innovation**<br />Increasing efficiencies in research and development.
+
+**Collaboration**<br />Facilitating large-scale data projects.
+
+**More responsive policy and research**<br />Addressing public needs as a consequence of better and more inclusive research.
+
+**Diversification of science**<br />Through inclusive collaborations.
+
+**Career benefits**<br />For individual researchers.
+
+## Accelerated Innovation
+
+### Creating Efficiencies {-}
+
+Open Science offers opportunities to increase the rate of scientific discovery.
+
+For example, in drug development, frequently multiple researchers and companies are developing very similar drugs to address the same issue, with each research team or company drug trial running independently of the next and little to no disclosure of what they\'re testing. Working in isolation limits the size of the trials, increasing bias while simultaneously increasing overhead as similar approaches are independently generated and trialed. During COVID, the open publication of vaccine related data helped to limit redundancies and allow researchers to quickly propose novel solutions.
+
+In other contexts, the publication and dissemination of reproducible workflows and non-significant findings means replication studies to support the evidence base are more easily undertaken while known failed attempts at discovering true relationships between phenomena can be added to a researchers \'No need to investigate this...\' list.
+
+<div class = "takeAway">
+In short OS...
+
+**Solidifies the foundation of scientific knowledge**<br />As reproducible, robust research can be understood and replicated more easily.
+
+**Has the potential to make the research process more efficient**<br />As data, methods, analytical techniques, and code can be reused.
+
+**Limits unnecessary or redundant research**<br />As the publication of studies that include both successful and failed techniques helps others to avoid wasting time and energy.
+</div>
+
+### From Patents to Open Science {-}
+
+But let\'s take this back a bit and ask, why is science closed in the first place?
+
+On a practical level, research in the lab can lead to industrial applications, whether it\'s a new vaccine, a drone that uses remote sensing technology to identify tree species, or a solar-powered train. In many cases, creators of such applications - or the organizations that employ them - will apply for a patent, a legal document that gives them the sole right to manufacture and sell the product - their intellectual property.
+
+So, in many ways in modern history, patents, first issued in the 15th century, helped to close off science. Under patent law, only the inventor can improve the product. This limits the ability of society at large to explore and expand on the techniques and technologies applied.
+
+<div class = "note">
+The restriction of scientific knowledge throughout Western history is certainly more nuanced than this, but it is interesting to note that in spite of efforts to increase access to information - through public education and public libraries for example - the distribution and use of existing knowledge or discoveries remains tightly bound to a specific economic model.
+</div>
+
+In contrast, when we open up our practices to share intellectual property, we allow for accelerated innovation, which means less expensive industrial products that take less time to get to market.
+
+<div class = "osexample">
+##### Open Source Design and Accelerated Production of Medical Grade Face Shields at UBCO {-}
+
+Accelerated innovation is driven by both shared knowledge and shared tools of production.
+
+[*makerspace UBCO*](http://makerspace.ok.ubc.ca/) offers equipment and peer assistance to turn ideas into prototyped realities. When the COVID-19 outbreak hit early in 2020, health workers on the front lines faced a critical shortage of personal protective equipment (PPE). Under the guidance of Cortney Chulo, makerspace manager, the makerspace partnered with the School of Engineering and with the Interior Health Authority to produce face shields for health workers using the makerspace\'s 3D printers, open-source designs, and improvements suggested by the engineering students to meet Interior Health specifications.
+
+The team looked at the following open source designs on the Web, combining the best points of each and making some additional changes of their own:
+
+* [Prusa Shield](https://www.prusaprinters.org/prints/25857-prusa-face-shield)
+* [CoronaVirusMakers Shield](https://www.thingiverse.com/thing:4233193)
+* [Tinkerine Shield](https://tinkerine.com/topic/lb/1072/tinkerine-face-shield-v9-4)
+
+Read more about the makerspace project at https://news.ok.ubc.ca/2020/04/16/ubco-teams-up-with-community-partners-to-design-medical-ppe/
+</div>
+
+## Collaboration
+
+Through the pooling of resources and, in particular, data, a project that would remain a distant dream if dependent on a single actor can become a reality.
+
+Such collaborations can involve different research organizations, researchers from different disciplines, citizen science participation, or international cooperation.
+
+<div class = "osexample">
+##### The Tree of Life {-}
+
+The digital Tree of Life uses published data to visualize how over two billion living things on Earth have evolved in relation to each other … going back 3.5 billion years!
+
+A collaboration of scientists from 11 different research organizations and funding through the U.S. National Science Foundation made this huge online tool possible. One of the scientists involved, genetics professor Douglas Soltis, observed
+
+> Twenty-five years ago people said this goal of huge trees was impossible. The open tree of life is an important starting point that other investigators can now refine and improve for decades to come.
+>
+> --- (Shekhtman, 2015)
+
+The Tree of Life can be used or edited by anyone, free of charge. [Explore the Tree of Life website.](https://tree.opentreeoflife.org/about/open-tree-of-life)
+</div>
+
+<div class = "osexample">
+##### COVID-19 Collaboration {-}
+
+Since the global COVID-19 pandemic was declared on March 11, 2020, we\'ve been witnessing its sweeping health, social, and economic impacts.
+
+Sequencing the virus\'s genome and making a vaccine became urgent priorities. However, preparation of vaccines normally takes years, sometimes up to 15! Nevertheless, to the amazement of many, the first COVID-19 vaccine was approved for use in China in June 2020, and as of February 23, 2021, 11 vaccines were in use worldwide. What made this possible?
+
+International partnerships, starting with the public release of the first COVID-19 genome sequence by China in January of 2020, shortened the road to vaccination considerably. The United Nations World Health Organization spearheaded a huge international clinical trial they called the Solidarity Trial, [which involved over 75 countries and reduced the time taken for clinical trials by 80%](https://www.un.org/en/un-coronavirus-communications-team/un-mobilizes-global-cooperation-science-based-covid-19-responses). 
+</div>
+
+## Responsive Policy and Research
+
+Involvement of citizens in research can help steer science in ways that help society and make science communication and science-based public policy more responsive to public needs. Naturally, this also increases public trust in science.
+
+The \"Patient Expert\" model of health care, in which patients participating in studies or treatments assume a good amount of responsibility for their own care and contribute feedback that can influence the course of future studies is an excellent example of this.
+
+<div class = "osexample">
+##### The CHILD-BRIGHT Network {-}
+
+CHILD-BRIGHT, headquartered in Montreal, networks health practitioners, patients, families, and research scientists across Canada to advance patient-oriented care of children with brain-based developmental disabilities. This network was born out of consultation with patients and their families. The [CHILD_BRIGHT website ](https://www.child-bright.ca/citizen-engagagement) clearly outlines the importance of citizen engagement to the network’s projects:
+
+> At CHILD-BRIGHT, \'patients\' have been at the centre of our work since before our network was even established. We understand that patients and families are experts on their health experiences and needs and we look to them to provide us with insightful input that will influence our priorities, research study design, the outcome measures we use, as well as the interpretation and use of our findings.
+>
+> As a network working under Canada’s Strategy for Patient-Oriented Research, we aim to engage all people touched by brain-based developmental disabilities, especially patients and families, as meaningfully as possible in all aspects of our work.
+
+CHILD-BRIGHT holds summer camps for children at research centres in Calgary, Edmonton, and Toronto under the SPORT (Stimulation for Perinatal Stroke Optimizing Recovery Trajectory) program. Children in the camp receive trial treatments aimed at improving their motor function, as well as undergoing testing and imaging for research. Their participation helps to build data sets for studies, and guides the direction of future research. Of course, some fun is involved as well! Many of the children have reported improved function through the camp\'s treatments.
+</div>
+
+## Diversification of Science
+
+Economic acceleration, the growth of large-scale projects, and responsive public policy improve the welfare of the public. But what about leveling the playing field in science for people who belong to groups that have historically been the targets of racism, colonization, and discrimination, and recognizing Indigenous worldviews and approaches to understanding our world?
+
+In its efforts to limit bias and to foster systems that support transparency and reproducibility Open Science needs to constantly evaluate the underlying social norms and historical processes that ingrain bias into the scientific process. This, alongside an emphasis on science that is guided and led by those who will be most impacted by its outcomes and with partnerships and collaboration being core elements of practice, means that Open Science offers the opportunity to critically engage with and promote equity, diversity, and inclusivity in science.
+
+<div class = "osexample">
+##### Braiding Traditional Knowledge with Western Science {-}
+
+As one step on the path to reconciliation, UBC Okanagan has established a research cluster — [Enhancing Ecosystem Sustainability: A Syilx/Settler Science Collaboration](https://research.ok.ubc.ca/research-excellence/research-clusters/enhancing-ecosystem-sustainability/) — to combine Western science and Traditional Indigenous Knowledge to inform policy and practice that will fight climate change and ecological disruption. The cluster is co-lead by Dr. Jeannette Armstrong of the Syilx Okanagan Nation and Associate Professor of Indigenous Studies and Dr. Lael Parrott, Professor in Sustainability who directs the [Okanagan Institute for Biodiversity, Resilience and Ecosystem Services (BRAES)](http://braes.ok.ubc.ca/). 
+
+The researchers approach ecology as a complex web of relationships among humans, non-human animals, plants, and the land. Initially, the team will look at management and restoration of the grizzly bear and salmon habitats in the Okanagan Syilx territory.
+
+Concern for the non-human beings with whom we share the Earth has always been central to the Syilx worldview. In January 2021, as a panelist in the [*Science and Systemic Racism: Indigenous Perspectives* webinar](https://provost.ok.ubc.ca/addressing-systemic-racism-indigenous-perspectives/), Dr. Armstrong spoke of the Syilx responsibility to *tmixw* (nsyilxcen for all lifeforms)
+
+> In the Syilx view, the human duty is to perceive how the *tmixw* are regenerating themselves and how therefore the human must move forward in unity with them. Immersion in the knowledge of *tmixw* allows us to view its reality and makes it possible for the aliveness of each separate life form (University of British Columbia, 2021).
+
+The [UBC Strategic Plan website](https://strategicplan.ubc.ca/research-cluster-promotes-traditional-indigenous-knowledge-science-collaboration/) quotes Dr. Parrott on some of the motivations for the partnership: 
+
+> I’m hoping that we’ll serve as a model for how we, as academics, can do a better job of collaborating respectfully with Indigenous communities – with new ways of moving forward that treat the different ways of knowing equally and respectfully – and come up with perhaps a third way of viewing the world.
+>
+> What really excites me is the opportunity to engage with the Syilx knowledge holders, to learn from their knowledge of the Okanagan landscape and the wildlife.
+
+The Enhancing Ecosystem Sustainability project has taken an active role in engaging Indigenous youth. Its activities range from helping to weave traditional knowledge into elementary school education to planning for Indigenous science camps for teens. Indigenous graduate students are funded through the project, and play central roles in the research.
+
+Interested in learning more about the work Drs. Armstrong and Parrott are doing together? [A recording of the presentation they made at Green College](https://www.youtube.com/watch?v=UM8ObGzW1ps&feature=youtu.be) (UBC Vancouver), hosted on YouTube, gives a good introduction to their project. 
+</div>
+
+## Career Benefits for Researchers
+
+Being more transparent in one\'s research and engaging with the principles and practices of Open Science can also bring with it career benefits – especially for those in the early stages of their careers.
+
+Some of these benefits include
+
+**Increased visibility**<br />Where fewer barriers to access means more ready access - for example, publishing open can increase the impact and uptake of one\'s research.
+
+--- [Open Access Increases Citations of Papers in Ecology](https://doi.org/10.1002/ecs2.1887).
+
+**Enhanced networks**<br />Where chances to make connections, exchange, and collaborate, create opportunities for advancement.
+
+**Greater employability**<br />As both universities and institutions outside of the academic world - such as in industry and government - have begun to integrate the tools and philosophies of open science into their hiring expectations.
+
+**Funding and publishing opportunities**<br />Where many funders and journals now require that researchers make their data public and participate in other Open practices. In fact, the Canadian Tri-Agencies - the major federal research funding bodies - require manuscripts resulting from funded research to be published [Open Access](https://www.ic.gc.ca/eic/site/063.nsf/eng/h_F6765465.html) and have recently [released a road map for similar requirements for data](https://www.ic.gc.ca/eic/site/063.nsf/eng/h_97610.html).
+
+<div class = "osexample">
+##### Mandeep Mann on Open Notebooks {-}
+
+Mandeep Mann, a PhD candidate at the University of Toronto has been working since 2017 with the Structural Genomics Consortium (SGC). The SGC, a public-private partnership, focuses on discovering and producing new medications for diseases and conditions that are hard to treat. It is also a groundbreaker in Open Science practices.
+
+We interviewed Mandeep about her use of an Open Science practice called Open Notebooks, which involves
+
+* Publishing or linking to data on an online platform before results are published in a peer-reviewed journal
+* Making information about the methodology and equipment used in a study publicly available
+* Openly discussing both positive and negative results in real time, as they are obtained.
+
+**What are you studying?**
+
+My research focuses on developing drug-like molecules to use as tools to study targets implicated in disease, such as cancer. Disease targets for drugs are usually proteins. 
+
+**How did you get started using open notebooks?**
+
+The laboratory where I chose to do my research is at the Structural Genomics Consortium (SGC), which is a firm believer in open science - sharing data, and tools openly with the world to accelerate research. The idea of open science was new to me at the time, but nonetheless intriguing. I started off using an electronic notebook through the SGC, where we record all our experiments/research and findings in an electronic notebook, which gets uploaded to an in-house database. My mentor in the lab, Dr. Rachel Harding, showed me the ropes when I first started graduate school—how to navigate things in the lab and with graduate research in general. Rachel had been sharing her research through a blog for years. The SGC decided to adopt Rachel\'s ideas and further our open science principles by starting open lab notebooks. I volunteered to be one of the first users of the open notebook, as I had seen what a positive experience it had been for Rachel. 
+
+**What platform are you using?** 
+
+We use a blog (https://openlabnotebooks.org/) operated through Wordpress to express our research in terms that can be understood by the general public and scientific audiences that are not experts in the field. We link our blog posts to a data repository called Zenodo, where we upload the raw data, analyses, and findings in much more detail. 
+
+**How do you use Zenodo and social media to amplify the power of open notebooks?** 
+
+Any time someone posts on our open notebook platform, a regulator of the site will share the post through twitter.
+
+**How did you feel initially about using open notebooks? Did you have any reservations?** 
+
+Even though I was one of the first users of the open notebook, at first, I was nervous. As a graduate student, you often hear, \"publish or perish\", where the success of your research relies on how many publications you get. What if I get \"scooped\'? What if someone sees my research in the open notebook and then uses it to get further than me in my research - what does that mean for my research? What if they don\'t credit me with my ideas? I had all these thoughts. Over time, some of these worries were alleviated. A time stamp and doi are assigned to a post on Zenodo - so people can cite your work. About a year and a half after I started the open notebook, I published my work in a respectable journal, even having shared all that data in my open notebook earlier. Luckily, I have never been scooped, but I\'m more comfortable in the knowledge that if someone figures something out first, it could also benefit me. 
+
+**What connections have you made through this open practice?**
+
+I\'ve been invited to several events over the last couple of years to give talks on my experience with open science and the open notebook, which has led me to meeting with scientists in other disciplines and improving my network.
+
+**What sort of feedback have you had on your work?** 
+
+In the blog portion of the open notebook, there is a comments section. The public can ask questions or raise concerns that they might have; they can also do this through twitter. For example, my work has been acknowledged through twitter by associates at pharma companies. In addition, you can see the statistics of how many times your work has been viewed or downloaded. One of my posts has 1289 views and 608 downloads!
+
+**What other open practices, if any, have you been involved in?** 
+
+Other than the open notebook, I follow SGC\'s lead in open science practices - sharing my data, tools with those that are interested. For example, we share our inhibitors with other research labs that would like to test them. 
+
+**How do you feel about Open Science?** 
+
+I think open science will be adopted much more widely in the future. As we have seen with the COVID-19 pandemic, sharing data and making data more accessible accelerates research.
+
+**How would you respond to someone who felt concerned that using an open notebook might expose mistakes made in research?**
+
+The point of research is to learn - learn what works and doesn\'t work. If someone exposes a mistake made in your research, especially in the open notebook I would consider that a plus. You have a chance to go back and address that mistake - make changes to your protocol or analyses and consider the data from another angle. I think that will make you a better researcher.
+
+**Do you have any advice for scientists at earlier stages of their careers?** 
+
+Don\'t be afraid to fail. It happens, especially in the early stages of research for scientists. If you\'re not afraid to ask for help and keep trying, you\'ll make an excellent scientist!
+
+(Personal communication with Sharon Hanna, March 14, 2021).
+</div>

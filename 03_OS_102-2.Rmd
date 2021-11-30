@@ -1,0 +1,136 @@
+# Open Science in Action: Challenges
+
+*Last updated `r Sys.Date()`*
+
+## Introduction
+
+If Open Science is so great, why isn\'t everyone doing it?
+
+This next section looks at some of the barriers to practicing Open Science, in particular those areas related to transparency and reproducibility. It will also explore some strategies to overcome these.
+
+Some of the issues we\'ll explore include:
+
+**Incentives and rewards**
+
+**Awareness and training**
+
+**Intellectual property rights**
+
+## Incentives & Rewards
+
+### The Current Reward System {-}
+
+As we have seen, flashy science may trump good science.
+
+Many of the underlying reasons for this are a result of the reward system in academia. The reward system in academic research has four main players: researchers, publishers, employers, and funders. Traditional research outputs (academic papers) are coordinated by publishers, while researcher rewards - tenure, wages, and grants - are handled by their employers, funders, and peers.
+
+As you\'ll recall, journals want to publish exciting research. You could say this is good business sense - I mean, who wants to pay for a journal full of research articles that say \'we conducted an experiment, but didn\'t find anything.\'?
+
+Funders, as well, want their projects to achieve clear, novel, and measurable results; they obviously want to be able to justify *why* they invested in a given project. Interestingly, this often results in \'the next big thing\' being awarded significant funding while the niche, but potentially novel project is overlooked. This is equally problematic for replication studies. 
+
+Employers want to know that their institution is having an impact - researcher funding dollars and researcher impact are proxy measures of institutional success and impact.
+
+Researcher impact is gauged largely by the number of times their research is cited by others, the prestige of the journals they publish in, and the level of funding they can get. Thus, the rewards a researcher receives depend largely on the outputs of journals.
+
+<div class = "takeAway">
+Journals want to publish exciting research. Funders want their projects to achieve clear, novel, and measurable results. Employers want to know that their institution is having an impact. Researcher impact is gauged largely by measures of citation impact.
+</div>
+
+You can see we have a bit of a quandary here.
+
+Researchers may want to change their practices - say explore an unlikely, but potentially exciting avenue of inquiry, re-address an already published study and attempt a replication, or invest more time in making their research methods computationaly reproducible or undertake their next project with a level of care and direction that supports the needs of those impacted by their research - but if such changes negatively affect whether they\'re published - or where they\'re published - they risk falling out of favour with their employers or face greater challenges getting research funding.
+
+At the same time, funders and employers struggle to find other ways to *measure* research impact to coordinate funding and to demonstrate value - citation metrics are the easy option.
+
+### Strategies for Change {-}
+
+Strategies for change centre on how *value* and *impact* are interpreted and understood in the context of research. And many large organizations representing researchers, publishers, employers, and funders have started to change the way in which they evaluate these factors.
+
+#### Changes in Assessment Criteria {-}
+
+In 2012, the Annual Meeting of the American Society for Cell Biology in San Francisco gave rise to the Declaration on Research Assessment (DORA). This document calls on all parties involved in the research process to critically re-evaluate how research is assessed for merit. It has since turned into a worldwide initiative with thousands of individual and organizational supporters. [You can read more about DORA here](https://sfdora.org/).
+
+UBC is currently not a signatory, however.
+
+#### Funder Requirements {-}
+
+Since 2015, the three major Canadian research agencies - the National Sciences and Engineering Research Council (NSERC), the Social Sciences and Humanities Research Council (SSHRC), and the Canadian Institutes of Health Research (CIHR) - have required that recipients of their research grants provide open access to the resulting papers within a year of publication. These same agencies are currently working on a similar policy for research data. [You can read more about the Tri-Agencies Open Access Policy here](https://scholcomm.ubc.ca/open-access/tri-agency-open-access-policy/).
+
+UBC invests significantly in ensuring that researchers have the resources needed to be able to adhere to these funder requirements.
+
+#### Journal Efforts {-}
+
+In 2014, the journal *Psychological Science* broke new ground by giving authors the opportunity to signal their use of open practices by awarding badges to their papers. Under the guidance of UBC Vancouver’s [Dr. Eric Eich](https://openscience.ubc.ca/open-science-in-practice/profile-eric-eich/), editor-in-chief of the journal at that time, authors began to receive badges for three types of OS practices: open data, open materials, and preregistration. These badges were then added as images to the paper.
+
+Before badges were introduced, fewer than 3% of papers in *Psychological Science* reported that their data was open. By mid 2015, this percentage had grown by a factor of 13 to 39 percent!
+
+--- [Badges to Acknowledge Open Practices: A Simple, Low-Cost, Effective Method for Increasing Transparency](https://doi.org/10.1371/journal.pbio.1002456).
+
+<div class = "note">
+It would not be sound science to suggest that badging directly resulted in a 13 fold increase in open data - some of this data may have already been intentioned to be open. However, given the opportunity to signal that one is undertaking this open activity helps to encourage and normalize the process among peers.
+
+So, while the full increase should not be attributed exclusively to badging, the act of badging made it possible to connect open data directly to published research findings, increasing transparency and reproducibility.
+</div>
+
+## Awareness & Training
+
+Most researchers today haven\'t been trained in Open Science practices. To be fair, they would likely agree philosophically with much of what we have thus far suggested engender open practices in the sciences - after all, much of Open Science is really just good science. But part of the history of Open Science is tied to the increasing use of computational resources in scientific practices - and what this means for both providing opportunities to increase transparency, reproducibility, and inclusion, but also for hindering each of these.
+
+<div class = "takeAway">
+When it comes to adopting the set of practices enabled and potentially normalized by the tools, technologies, and services currently available to researchers, many researchers may not know where to start in terms of modifying their practices or adopting these tools and building the relationships needed for this kind of engagement.
+</div>
+
+And those in the later stages of their careers may think that the effort required to change is too significant a barrier to overcome, even if their graduate students try to engage them in talking about Open Science.
+
+### A Learning Curve {-}
+
+Learning a new way of conducting science involves time and effort.
+
+Depending on where you are in your career, this time and effort is more or less valuable and easier or harder to come by. For example, longtime researchers may struggle with taking time away from their current responsibilities that have grown over the years, including managing students, administrative tasks, applying for grants, and teaching.
+
+The fact is, Open Science practices involve investing more time at the start of a research project, because they require you to think through the entire project, collaborate in meaningful ways with research partners, map out what you\'re going to do, and to try to foresee where errors could happen so you can prevent them or soften their impact. However, the investment pays off in increased scientific rigour, less time spent on the end of the project, outcomes with greater social impact, and increased efficiencies in future projects.
+
+Embracing Open Science education may also mean having to grasp new technologies, and some people, even in the sciences, feel discomfort with learning new tech.
+
+### Advocating for Open {-}
+
+To help researchers clear the learning curve, advocates of Open Science seek to make information about Open Science benefits, tools, and practices available to researchers at all levels.
+
+Initiatives in this direction include
+
+**Free, easy-to-use tools that don\'t require coding**<br />Like OSF, a project management and networking site that allows researchers to display and interact with all products of their research.
+
+**Free storage for researchers**<br />Whether through third parties like [OSF](https://osf.io/) or [ Zenodo](https://zenodo.org/), or through their institution. At UBC, we have [cIRcle](https://circle.ubc.ca/) for publications and [Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc) for data. We also have [an institutional portal into OSF](https://osf.io/institutions/ubc)
+
+**OS education programs**<br />Including this one - at universities aimed at undergraduates, graduates, and early career researchers.
+
+**Mentoring programs**<br />That team a researcher experienced with OS methods with colleagues new to OS.
+
+**Courses in specific aspects of Open Science**<br />Such as those offered by the [FOSTER portal](https://www.fosteropenscience.eu/courses) (a project of the European Union).
+
+## Intellectual Property Rights
+
+Our economy and legal system have long recognized the rights of creators of ideas, methods, products, and other brainchildren to own the products of their creation. These rights provide a strong incentive for research and innovation, both for individual creators and for society through the production of new knowledge, goods, and services.
+
+However, as we know, Open Science also provides strong stimulation to the economy by improving the quality of science and industrial products and services, facilitating more rapid discovery, and making scientific knowledge broadly available to creators or potential creators.
+
+<div class = "takeAway">
+Intellectual property rights and Open Science exist together in a tense but interdependent relationship; policy makers and all of the actors in the culture of science must work to strike a balance between these two concepts.
+</div>
+
+### The Open COVID Pledge: IP for Free in a Time of Crisis {-}
+
+In April 2020, in response to the threat of the COVID-19 pandemic, an international coalition of intellectual property law experts, researchers, and tech giants such as Amazon and Microsoft launched the [Open COVID Pledge](https://opencovidpledge.org/) to call researchers and research organizations to make COVID-related intellectual property available free of charge.
+
+These efforts have sped the development of tests, vaccines, medications, equipment, and software.
+
+<div class = "osexample">
+##### Selling Open Science at the Neuro {-}
+
+The Montreal Neurological Institute and hospital, aka The Neuro, has established itself as the first academic research institution fully dedicated to Open Science principles and practices. The Institute\'s activities include the Early Drug Discovery unit, which develops OS tools, technologies, training, and protocols with industry and university partners. The Neuro accelerates research and innovation by making its data and biological samples openly available and creating new intellectual property models for the marketing of open source discoveries.
+
+However, the transition to Open hasn\'t always been easy - even at the Neuro. [This five-minute video](https://montreal.ctvnews.ca/montreal-s-neuro-and-ai-community-at-heart-of-world-open-science-movement-1.3568039) introduces Open Science changes happening at The Neuro. Dr. Guy Rouleau, the Neuro\'s director, discusses the difficulties involved in convincing researchers to adopt OS practices and the strategies used to achieve consensus on the decision to change the Neuro\'s practices.
+</div>
+
+## Conclusion
+

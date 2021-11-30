@@ -1,3 +1,85 @@
+blockquote {
+  color: #002145;
+}
+
+strong {
+  color: #002145;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.note, .advanced, .flag, .takeAway, .osexample, .osexercise {
+  padding: 10px;
+  margin: 20px 0px;
+  border-radius: 5px;
+}
+
+.note {
+  border: 1pt solid #0d4a7b;
+  background-color: #f0f7fd;
+}
+
+.advanced {
+  border: 1pt solid #1f7b0d;
+  background-color: #f1fdf0;
+}
+
+.takeAway {
+  border: 1pt solid #cccc00;
+  background-color: #ffffe6;
+}
+
+.flag {
+  border: 1pt solid #cc0000;
+  background-color: #ffe6e6;
+}
+
+.caption {
+  text-align: center;
+}
+
+.osexample {
+  border: 1pt solid #293d3d;
+  background-color: #fcfcfc;
+}
+
+.osexercise {
+  border: 1pt solid #293d3d;
+  background-color: #f0f5f5;
+}
+
+
+
+
+
+
+.lab, .feature, .customExample {
+  border-top: solid 3px #00394d;
+  border-bottom: solid 3px #00394d;
+  padding: 15px 15px 5px 15px;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-size: 80px;
+  background-origin: content-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .outcomes {
   border: solid 3px #007399;
   padding: 15px 15px 5px 15px;

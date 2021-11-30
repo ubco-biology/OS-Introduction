@@ -8,4 +8,16 @@ core-values-equity-communication
 core-values-diversity-inclusion
 an-equitable-and-inclusive-open-science
 wrap-up
-references
+open-science-in-action-benefits
+introduction
+accelerated-innovation
+collaboration
+responsive-policy-and-research
+diversification-of-science
+career-benefits-for-researchers
+open-science-in-action-challenges
+introduction-1
+incentives-rewards
+awareness-training
+intellectual-property-rights
+conclusion
