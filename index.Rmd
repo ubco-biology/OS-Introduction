@@ -22,6 +22,12 @@ Hanna, S., Pither, J., Vis-Dunbar, M. (2021). *Open Science. An introduction for
 
 All source files are available [https://github.com/ubco-biology/OS-Introduction](https://github.com/ubco-biology/OS-Introduction).
 
+## UBCO Biology open materials {-}
+
+This resource is part of a larger project to host UBCO Biology lab materials in an open, accessible format.
+
+All BIOL open materials can be found at [https://ubco-biology.github.io/](https://ubco-biology.github.io/)
+
 ## Conventions {-}
 
 <div class = "takeAway">
