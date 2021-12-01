@@ -1,3 +1,47 @@
+.note, .takeAway, .osexample, .osexercise {
+  padding: 10px;
+  margin: 20px 0px;
+  border-radius: 5px;
+  border-left: 8px;
+  border-left-style: solid;
+}
+
+.note {
+  border-color: #0d4a7b;
+  background-color: #f0f7fd;
+}
+
+.note::before {
+  content: "Note";
+  font-weight: bold;
+  color: #0d4a7b;
+}
+
+.takeAway {
+  border-color: #cccc00;
+  background-color: #ffffe6;
+}
+
+.takeAway::before {
+  content: "Highlight";
+  font-weight: bold;
+  color: #cccc00;
+}
+
+.osexample {
+  border-color: #293d3d;
+  background-color: #fcfcfc;
+}
+
+.osexercise {
+  border-color: #293d3d;
+  background-color: #f0f5f5;
+}
+
+.caption {
+  text-align: center;
+}
+
 blockquote {
   color: #002145;
 }
@@ -10,44 +54,4 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-.note, .advanced, .flag, .takeAway, .osexample, .osexercise {
-  padding: 10px;
-  margin: 20px 0px;
-  border-radius: 5px;
-}
-
-.note {
-  border: 1pt solid #0d4a7b;
-  background-color: #f0f7fd;
-}
-
-.advanced {
-  border: 1pt solid #1f7b0d;
-  background-color: #f1fdf0;
-}
-
-.takeAway {
-  border: 1pt solid #cccc00;
-  background-color: #ffffe6;
-}
-
-.flag {
-  border: 1pt solid #cc0000;
-  background-color: #ffe6e6;
-}
-
-.caption {
-  text-align: center;
-}
-
-.osexample {
-  border: 1pt solid #293d3d;
-  background-color: #fcfcfc;
-}
-
-.osexercise {
-  border: 1pt solid #293d3d;
-  background-color: #f0f5f5;
 }

@@ -167,7 +167,7 @@ In the previous section we talked about the relationship between science and soc
 
 The fundamental values we\'ll look at include
 
-**scientific quality and integrity**
+**Scientific quality and integrity**
 
 **Equity**
 
@@ -289,7 +289,6 @@ Diversity and inclusion show up in many types of research activities that involv
 * Interdisciplinary research, such as collaborations between medical researchers on the one hand and veterinarians and animal specialists on the other, can help investigate complex questions like how the COVID-19 coronavirus evolves in intermediate hosts before being transferred to humans.
 
 <div class = "osexample">
-
 ##### Partnership Research: Integrated Knowledge Translation (IKT) {-}
 
 Historically, there has been an imbalanced power relationship between people with differing physical abilities or medical conditions and the experts responsible for their care, medical treatment or research of their conditions.
