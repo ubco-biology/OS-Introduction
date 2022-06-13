@@ -12,7 +12,7 @@ Science is a beautiful thing. It is a landscape of exploration and one that at i
 >
 > If we build a road here, how will the local population of bighorn sheep be affected?
 
-As you\'ll discover throughout your degree, scientists tackle such questions through a combination of exploratory research and confirmatory research. At the exploratory stage, ideas are generated and associations are discovered. Exploratory research gives rise to hypotheses that can then be tested through confirmatory research, which requires well-designed experiments. For instance, based on observation, we have long hypothesized that there are positive associations between exercise and physical health. But establishing that daily exercise causes healthy outcomes is a different challenge.
+As you\'ll discover throughout your degree, scientists tackle such questions through a combination of <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Exploratory-research">exploratory research</a> and <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Confirmatory-research">confirmatory research</a>. At the exploratory stage, ideas are generated and associations are discovered. Exploratory research gives rise to <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Hypothesis">hypotheses</a> that can then be tested through confirmatory research, which requires well-designed experiments. For instance, based on observation, we have long hypothesized that there are positive associations between exercise and physical health. But establishing that daily exercise causes healthy outcomes is a different challenge.
 
 <div class = "takeAway">
 Exploratory research gives rise to hypotheses that can then be tested through confirmatory research, which requires well-designed experiments.
@@ -36,9 +36,9 @@ After reading the following abstract from Liu-Ambrose et al\'s paper [Effect of 
 
 **Objective** To assess the effect of a home-based exercise program as a fall prevention strategy in older adults who were referred to a fall prevention clinic after an index fall.
 
-**Design, Setting, and Participants** A 12-month, single-blind, randomized clinical trial conducted from April 22, 2009, to June 5, 2018, among adults aged at least 70 years who had a fall within the past 12 months and were recruited from a fall prevention clinic.
+**Design, Setting, and Participants** A 12-month, single-blind, randomized <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Clinical-trials">clinical trial</a> conducted from April 22, 2009, to June 5, 2018, among adults aged at least 70 years who had a fall within the past 12 months and were recruited from a fall prevention clinic.
 
-**Interventions** Participants were randomized to receive usual care plus a home-based strength and balance retraining exercise program delivered by a physical therapist (intervention group; n = 173) or usual care, consisting of fall prevention care provided by a geriatrician (usual care group; n = 172). Both were provided for 12 months.
+**Interventions** Participants were <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Random-assignment">randomized</a> to receive usual care plus a home-based strength and balance retraining exercise program delivered by a physical therapist (intervention group; n = 173) or usual care, consisting of fall prevention care provided by a geriatrician (usual care group; n = 172). Both were provided for 12 months.
 
 **Main Outcomes and Measures** The primary outcome was self-reported number of falls over 12 months. Adverse event data were collected in the exercise group only and consisted of falls, injuries, or muscle soreness related to the exercise intervention.
 
@@ -52,7 +52,7 @@ After reading the following abstract from Liu-Ambrose et al\'s paper [Effect of 
 
 ### Causal Links {-}
 
-Suggesting a causal link brings with it the need to show your proof. This burden of scientific proof requires both creativity and rigour; studies must be well designed and well executed. It also requires that studies be independently replicated to show that, if repeated, they will result in the same conclusions, reinforcing the validity of the original findings. On the other hand, a replication study may come to a different conclusion, potentially invalidating the conclusions of the original study.
+Suggesting a causal link brings with it the need to show your proof. This <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Burden-of-proof">burden of scientific proof</a> requires both creativity and rigour; studies must be well designed and well executed. It also requires that studies be independently <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Replication">replicated</a> to show that, if repeated, they will result in the same conclusions, reinforcing the validity of the original findings. On the other hand, a replication study may come to a different conclusion, potentially invalidating the conclusions of the original study.
 
 Say, for example, that you\'re provided with the choice between two medications to treat a medical condition - we\'ll leave the details of this medical condition up to your imagination. Neither has a record of adverse side effects, but one drug, we\'ll be creative and call it \"drug A\" has findings obtained from only a single research lab, while \"drug B\" underwent five independently replicated studies in five different labs with five independent researchers. Which medication might you choose?
 
@@ -77,7 +77,7 @@ If science is going to be used by the public, other scientists, and policy maker
 Scientists can build public trust in science through the use of
 
 * rigour in the scientific method and
-* replication (thorough repetition) of studies to build and solidify the evidence for a conclusion.
+* <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Replication">replication</a> (thorough repetition) of studies to build and solidify the evidence for a conclusion.
 
 We can assure access to science by removing barriers to access, such as fees for articles, and by tailoring communication of the outputs for specific audiences.
 
@@ -87,7 +87,7 @@ Designing accessible outputs for a particular audience means considering the pri
 
 Who exactly is a stakeholder? Anyone who can influence or be affected by a matter. Examples of these could include government policy makers and funders, business and industry, politicians, environmentalists, patients, and the general public.
 
-## A Crisis
+## A Crisis 
 
 Much of the scientific community was shocked in 2005 when researcher, John Ioannidis, wrote a paper claiming that most published research findings are false.
 
@@ -109,9 +109,9 @@ After reading the following abstract from John Ioannidis’s article, [Why most 
 
 ##### Abstract {-}
 
-There is increasing concern that most current published research findings are false. The probability that a research claim is true may depend on study power and bias, the number of other studies on the same question, and, importantly, the ratio of true to no relationships among the relationships probed in each scientific field.
+There is increasing concern that most current published research findings are false. The <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Probability">probability</a> that a research claim is true may depend on <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Study-power-(aka-statistical-power)">study power</a> and <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Bias">bias</a>, the number of other studies on the same question, and, importantly, the ratio of true to no relationships among the relationships probed in each scientific field.
 
-In this framework, a research finding is less likely to be true when the studies conducted in a field are smaller; when effect sizes are smaller; when there is a greater number and lesser preselection of tested relationships; where there is greater flexibility in designs, definitions, outcomes, and analytical modes; when there is greater financial and other interest and prejudice; and when more teams are involved in a scientific field in chase of statistical significance. Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true. Moreover, for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias. In this essay, I discuss the implications of these problems for the conduct and interpretation of research.
+In this framework, a research finding is less likely to be true when the studies conducted in a field are smaller; when effect sizes are smaller; when there is a greater number and lesser preselection of tested relationships; where there is greater flexibility in designs, definitions, outcomes, and analytical modes; when there is greater financial and other interest and prejudice; and when more teams are involved in a scientific field in chase of <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Statistical-significance">statistical significance</a>. Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true. Moreover, for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias. In this essay, I discuss the implications of these problems for the conduct and interpretation of research.
 </div>
 
 ## What Exactly is Open Science?
@@ -120,9 +120,9 @@ In the previous sections we discussed the burden of proof and the erosion of soc
 
 This next section will explore a related issue: the ability to build up evidence for a scientific claim by repeating the original study to make sure that the finding, be it correlative or causal, is a true finding and not just a fluke.
 
-### A Replication Crisis {-}
+### A <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Replication-crisis">Replication Crisis</a> {-}
 
-Open Science proposes many solutions to problems with how research is done.
+<a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Open-science">Open Science</a> proposes many solutions to problems with how research is done.
 
 <div class = "takeAway">
 Open Science aims to ensure that research can be confirmed through replication, and that both new discoveries and replications of previous research are respected and rewarded.
@@ -142,7 +142,7 @@ The result? Novel research gets funded and published. Sometimes, it appears, the
 
 Replication studies have traditionally been hard to fund, and many journals are not interested in publishing them. And universities and scientific institutes offer career rewards to those who publish novel findings in prestigious journals.
 
-Academia and industry alike reward the publication of positive and so-called \"significant\" results. Scientists may unwittingly \"bend the rules\" of science trying to get results worthy of publication. \"Bending the rules\" in this context is also known as engaging in Questionable Research Practices (QRPs).
+Academia and industry alike reward the publication of positive and so-called \"significant\" results. Scientists may unwittingly \"bend the rules\" of science trying to get results worthy of publication. \"Bending the rules\" in this context is also known as engaging in <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Questionable-research-practices">Questionable Research Practices (QRPs)</a>.
 
 <div class = "note">
 It\'s important to note that QRPs don’t normally result from deliberate efforts on the part of researchers to do bad science. QRPs arise from a complex system of interactions within and around the research process and from the need for researchers to get published. After all, publications are the bread and butter of a researcher. And unfortunately, this can mean that sometimes style trumps substance, as Daniel Engber notes in his *Slate* article [Cancer Research Is Broken](https://slate.com/technology/2016/04/biomedicine-facing-a-worse-replication-crisis-than-the-one-plaguing-psychology.html).
@@ -150,7 +150,7 @@ It\'s important to note that QRPs don’t normally result from deliberate effort
 
 ### Enter Open Science {-}
 
-Open Science is a movement that tries to combat the replication crisis, QRPs, and style trumping substance in two ways. First, by providing different incentives and rewards for research. That is, changing what we measure as a success in research, shifting from a culture that emphasizes novel findings to one that also rewards the many other aspects of practicing good science. Second, by making all parts of the scientific research process transparent and accessible, allowing for a critical review of how a study was conducted, and ultimately enabling that study to be independently replicated.
+Open Science is a movement that tries to combat the <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Replication-crisis">replication crisis</a>, QRPs, and style trumping substance in two ways. First, by providing different incentives and rewards for research. That is, changing what we measure as a success in research, shifting from a culture that emphasizes novel findings to one that also rewards the many other aspects of practicing good science. Second, by making all parts of the scientific research process <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Research-transparency">transparent</a> and accessible, allowing for a critical review of how a study was conducted, and ultimately enabling that study to be independently replicated.
 
 What sort of changes, then, would we expect Open Science to bring? Imagine a world where
 
@@ -177,9 +177,9 @@ The fundamental values we\'ll look at include
 
 ## Core Values: Scientific Integrity
 
-Though we haven\'t mentioned the phrase \"scientific integrity\", we have looked at the critical role it plays in replicability and Open Science. Integrity involves sticking to best practices for research that promote reproducibility through transparency and open access. At its root, this principle springs from a sense of responsibility for public welfare and from the honest pursuit of scientific truth.
+Though we haven\'t mentioned the phrase <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Scientific-integrity">\"scientific integrity\"</a>, we have looked at the critical role it plays in replicability and Open Science. Integrity involves sticking to best practices for research that promote reproducibility through transparency and open access. At its root, this principle springs from a sense of responsibility for public welfare and from the honest pursuit of scientific truth.
 
-In a literal sense, transparency is the property of an object that makes it so clear that you can see through it. But what about when we talk about transparency in government policy, or scientific research? In this context, transparency implies a high degree of disclosure — revealing clearly the exact reasoning and process used in coming to a decision or taking an action. As well, transparency means taking care to disclose important information in a respectful and responsible fashion.
+In a literal sense, transparency is the property of an object that makes it so clear that you can see through it. But what about when we talk about transparency in government policy, or scientific research? In this context, <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Research-transparency">transparency</a> implies a high degree of disclosure — revealing clearly the exact reasoning and process used in coming to a decision or taking an action. As well, transparency means taking care to disclose important information in a respectful and responsible fashion.
 
 ### Best Practices {-}
 
@@ -205,7 +205,7 @@ Ultimately, this specific information can help you to address gaps in your knowl
 
 What is equity? Does equity equal equality?
 
-Equity and equality are similar, but there is a key distinction: under equality everyone is treated in an identical manner, whereas under equity everyone is treated fairly according to their abilities and needs.
+Equity and equality are similar, but there is a key distinction: under equality everyone is treated in an identical manner, whereas under <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Equity">equity</a> everyone is treated fairly according to their abilities and needs.
 
 The following image nicely illustrates the concept of equity
 
@@ -226,7 +226,7 @@ Because there can be a range of stakeholders with different needs, values, and b
 Equity in science communication can be explored in many ways; none addresses all issues of equitable access, but each helps to enhance scientific literacies in our society. For example,
 
 * Open access publications help to make research available to those who cannot afford costly journal subscriptions.
-* Citizen science engages members of the public in the research process, contributing their voices to projects.
+* <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Citizen-science">Citizen science</a> engages members of the public in the research process, contributing their voices to projects.
 * Novel ways of sharing a message, like podcasts or Twitter, can reach communities with unique access needs or preferences.
 
 ### Audiences {-}
@@ -267,9 +267,9 @@ High concentrations of DDT in birds cause weakness in the shells of their eggs, 
 
 You\'ve almost certainly heard these terms, but may wonder if there\'s a difference between them.
 
-In the context of Open Science diversity is the practice or quality of engaging in research with individuals who vary in terms of social class, ethnic background, sexual orientation, gender, ability, etc.
+In the context of Open Science <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Diversity">diversity</a> is the practice or quality of engaging in research with individuals who vary in terms of social class, ethnic background, sexual orientation, gender, ability, etc.
 
-Inclusion takes this diverse engagement further: it looks at the individual in relation to the community, organization, or society, and ensures that they not only participate in, but guide the research process, especially as the research impacts these diverse communities as stakeholders in the research process and the implementation of findings from research.
+<a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Inclusion">Inclusion</a> takes this diverse engagement further: it looks at the individual in relation to the community, organization, or society, and ensures that they not only participate in, but guide the research process, especially as the research impacts these diverse communities as stakeholders in the research process and the implementation of findings from research.
 
 Looking back at our discussion in the previous section, diversity and inclusion seem to be natural partners of equity.
 
