@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In the previous chapter we talked a lot about what Open Science is, and about some of the core values that underlie it. In this chapter we\'ll survey, through tangible examples, some of the many benefits OS can bring when these core values are put into practice, including:
+In the previous chapter we talked a lot about what <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Open-science">Open Science</a> is, and about some of the core values that underlie it. In this chapter we\'ll survey, through tangible examples, some of the many benefits OS can bring when these core values are put into practice, including:
 
 **Accelerated innovation**<br />Increasing efficiencies in research and development.
 
@@ -26,7 +26,7 @@ Open Science offers opportunities to increase the rate of scientific discovery.
 
 For example, in drug development, frequently multiple researchers and companies are developing very similar drugs to address the same issue, with each research team or company drug trial running independently of the next and little to no disclosure of what they\'re testing. Working in isolation limits the size of the trials, increasing bias while simultaneously increasing overhead as similar approaches are independently generated and trialed. During COVID, the open publication of vaccine related data helped to limit redundancies and allow researchers to quickly propose novel solutions.
 
-In other contexts, the publication and dissemination of reproducible workflows and non-significant findings means replication studies to support the evidence base are more easily undertaken while known failed attempts at discovering true relationships between phenomena can be added to a researchers \'No need to investigate this...\' list.
+In other contexts, the publication and dissemination of reproducible workflows and non-significant findings means <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Replication">replication</a> studies to support the evidence base are more easily undertaken while known failed attempts at discovering true relationships between phenomena can be added to a researchers \'No need to investigate this...\' list.
 
 <div class = "takeAway">
 In short OS...
@@ -72,7 +72,7 @@ Read more about the makerspace project at https://news.ok.ubc.ca/2020/04/16/ubco
 
 Through the pooling of resources and, in particular, data, a project that would remain a distant dream if dependent on a single actor can become a reality.
 
-Such collaborations can involve different research organizations, researchers from different disciplines, citizen science participation, or international cooperation.
+Such collaborations can involve different research organizations, researchers from different disciplines, <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Citizen-science">citizen science</a> participation, or international cooperation.
 
 <div class = "osexample">
 ##### The Tree of Life {-}
@@ -120,7 +120,7 @@ CHILD-BRIGHT holds summer camps for children at research centres in Calgary, Edm
 
 Economic acceleration, the growth of large-scale projects, and responsive public policy improve the welfare of the public. But what about leveling the playing field in science for people who belong to groups that have historically been the targets of racism, colonization, and discrimination, and recognizing Indigenous worldviews and approaches to understanding our world?
 
-In its efforts to limit bias and to foster systems that support transparency and reproducibility Open Science needs to constantly evaluate the underlying social norms and historical processes that ingrain bias into the scientific process. This, alongside an emphasis on science that is guided and led by those who will be most impacted by its outcomes and with partnerships and collaboration being core elements of practice, means that Open Science offers the opportunity to critically engage with and promote equity, diversity, and inclusivity in science.
+In its efforts to limit bias and to foster systems that support <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Research-transparency">transparency</a> and <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Reproducibility">reproducibility</a> Open Science needs to constantly evaluate the underlying social norms and historical processes that ingrain bias into the scientific process. This, alongside an emphasis on science that is guided and led by those who will be most impacted by its outcomes and with partnerships and collaboration being core elements of practice, means that Open Science offers the opportunity to critically engage with and promote <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Equity">equity</a>, <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Diversity">diversity</a>, and <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Inclusion">inclusivity</a> in science.
 
 <div class = "osexample">
 ##### Braiding Traditional Knowledge with Western Science {-}
@@ -165,7 +165,7 @@ Some of these benefits include
 
 Mandeep Mann, a PhD candidate at the University of Toronto has been working since 2017 with the Structural Genomics Consortium (SGC). The SGC, a public-private partnership, focuses on discovering and producing new medications for diseases and conditions that are hard to treat. It is also a groundbreaker in Open Science practices.
 
-We interviewed Mandeep about her use of an Open Science practice called Open Notebooks, which involves
+We interviewed Mandeep about her use of an Open Science practice called <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Open-notebooks">Open Notebooks</a>, which involves
 
 * Publishing or linking to data on an online platform before results are published in a peer-reviewed journal
 * Making information about the methodology and equipment used in a study publicly available

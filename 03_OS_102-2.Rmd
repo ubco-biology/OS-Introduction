@@ -4,9 +4,9 @@
 
 ## Introduction
 
-If Open Science is so great, why isn\'t everyone doing it?
+If <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Open-science">Open Science</a> is so great, why isn\'t everyone doing it?
 
-This next section looks at some of the barriers to practicing Open Science, in particular those areas related to transparency and reproducibility. It will also explore some strategies to overcome these.
+This next section looks at some of the barriers to practicing Open Science, in particular those areas related to <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Research-transparency">transparency</a> and <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Reproducibility">reproducibility</a>. It will also explore some strategies to overcome these.
 
 Some of the issues we\'ll explore include:
 
@@ -26,7 +26,7 @@ Many of the underlying reasons for this are a result of the reward system in aca
 
 As you\'ll recall, journals want to publish exciting research. You could say this is good business sense - I mean, who wants to pay for a journal full of research articles that say \'we conducted an experiment, but didn\'t find anything.\'?
 
-Funders, as well, want their projects to achieve clear, novel, and measurable results; they obviously want to be able to justify *why* they invested in a given project. Interestingly, this often results in \'the next big thing\' being awarded significant funding while the niche, but potentially novel project is overlooked. This is equally problematic for replication studies. 
+Funders, as well, want their projects to achieve clear, novel, and measurable results; they obviously want to be able to justify *why* they invested in a given project. Interestingly, this often results in \'the next big thing\' being awarded significant funding while the niche, but potentially novel project is overlooked. This is equally problematic for <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Replication">replication studies</a>. 
 
 Employers want to know that their institution is having an impact - researcher funding dollars and researcher impact are proxy measures of institutional success and impact.
 
@@ -74,7 +74,7 @@ So, while the full increase should not be attributed exclusively to badging, the
 
 ## Awareness & Training
 
-Most researchers today haven\'t been trained in Open Science practices. To be fair, they would likely agree philosophically with much of what we have thus far suggested engender open practices in the sciences - after all, much of Open Science is really just good science. But part of the history of Open Science is tied to the increasing use of computational resources in scientific practices - and what this means for both providing opportunities to increase transparency, reproducibility, and inclusion, but also for hindering each of these.
+Most researchers today haven\'t been trained in Open Science practices. To be fair, they would likely agree philosophically with much of what we have thus far suggested engender open practices in the sciences - after all, much of Open Science is really just good science. But part of the history of Open Science is tied to the increasing use of computational resources in scientific practices - and what this means for both providing opportunities to increase transparency, reproducibility, and <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Inclusion">inclusion</a>, but also for hindering each of these.
 
 <div class = "takeAway">
 When it comes to adopting the set of practices enabled and potentially normalized by the tools, technologies, and services currently available to researchers, many researchers may not know where to start in terms of modifying their practices or adopting these tools and building the relationships needed for this kind of engagement.
@@ -136,7 +136,7 @@ However, the transition to Open hasn\'t always been easy - even at the Neuro. [T
 
 Open Science encompasses a diverse set of principles and practices. How these are prioritized, articulated and implemented shifts between disciplines and contexts of practice. And we\'ve only just touched on a few of these over the last several chapters. If you\'re interested in exploring in more detail how Open Science has been articulated in practice, an excellent resource is [Open Science: One Term, Five Schools of Thought](https://link.springer.com/chapter/10.1007/978-3-319-00026-8_2), by Benedikt and Sascha Friesike.
 
-The tools by which we engage in Open Science are equally as diverse and context and discipline specific. However, we hope we have conveyed that certain over-arching approaches, however they may be implemented, set the stage for better science and better evidence. Keeping things organized and documented underpin reproducibility and communication. Using tools and computational approaches that ensure things are both machine and human readable facilitate accessibility and longevity - an extension of this, literate programming, will be explored in more depth in future classes. Re-framing research to be diverse and inclusive enriches the kinds of questions we ask, how we ask them, and the implications this research has on the world around us. Context and audience specific science communication increases literacies and helps to build partnerships.
+The tools by which we engage in Open Science are equally as diverse and context and discipline specific. However, we hope we have conveyed that certain over-arching approaches, however they may be implemented, set the stage for better science and better evidence. Keeping things organized and documented underpin reproducibility and communication. Using tools and computational approaches that ensure things are both machine and human readable facilitate accessibility and longevity - an extension of this, <a href="https://ubco-biology.github.io/Procedures-and-Guidelines/glossary#Literate-programming">literate programming</a>, will be explored in more depth in future classes. Re-framing research to be diverse and inclusive enriches the kinds of questions we ask, how we ask them, and the implications this research has on the world around us. Context and audience specific science communication increases literacies and helps to build partnerships.
 
 In this module we\'ve seen a number of challenges to the uptake and implementation of these principles. We\'ve seen a number of examples of researchers and research teams at UBC and in Canada who have tried to overcome these challenges. We\'ve also seen examples of policy and organizational efforts to persuade researchers to adopt these principles and practices and to adapt the ways in which they conduct research. Lastly, we\'ve seen attempts at changing funding models and reward systems that help to shift how research efforts, inputs, and outputs are recognized and awarded. A shift of practice of this scale is not a small undertaking. As food for thought, we\'ll leave you with a visualization articulating what is needed to shift to Open Science from the founder of the Center for Open Science, Brian Nosek.
 
