@@ -21,4 +21,3 @@ incentives-rewards
 awareness-training
 intellectual-property-rights
 conclusion
-references
